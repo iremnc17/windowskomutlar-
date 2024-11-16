@@ -316,3 +316,6 @@ rmdir
 - https://www.donanimhaber.com/windows-cmd-komutlari-ve-kodlari--160039
 - https://tr.mashable.com/nasil-yapilir/13359/windows-cmd-komutlari-ve-kodlari-cmd-disk-ip-network-ag-diskpart-dosya-ping-ipconfig-ve-onarma-komut
 - https://blog.monsternotebook.com.tr/windows-cmd-komutlari/
+
+### *İletiişim Bilgileri:*
+imanciirem17@gmail.com
